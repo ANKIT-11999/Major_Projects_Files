@@ -1,0 +1,24 @@
+"Target Marketing tool"
+ 
+Problem:Target marketing for website or app
+
+Stack used:
+-frontend:React.js
+-backend:Express.js
+-DataBase-MongoDB
+
+The product idea is to target the specific users of any website (eg:e-commerce)and engage them 
+with push notification,email & messaging along with segmentation of users according to different user and 
+events performed by them.
+
+Progress:
+-so far we made the segmentation part where all users can be segmented under two main categories
+I-based on user behavourial attributes such as gender,age etc
+II-based on events performed by user eg;product purchased within certain limit
+-we can see all the users at one place and all segments at one place on clicking segments we can also
+check the users inside the segments,and on clicking users we can see their details
+
+Functionality in future:
+To send the email,messages and push notification to all the users according to specific segments
+Analytics of user and segments
+
